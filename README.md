@@ -1,2 +1,2 @@
-# ESSC-GAN
+# LULC classification
 our code will be upload.
